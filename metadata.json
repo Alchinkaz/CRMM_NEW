@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of ServiceCRM Pro",
+  "description": "Professional CRM for Installation & Service Companies (GPS, CCTV, Access Control). Features role-based access for Admins, Managers, and Engineers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
